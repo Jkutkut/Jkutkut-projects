@@ -9,6 +9,7 @@ Here you will see the variety of projects you can find here.
 ## [Geogebra](https://github.com/Jkutkut/Geogebra)
 ## [AppInventor](https://github.com/Jkutkut/AppInventor)
 ## [Arduino](https://github.com/Jkutkut/Arduino)
+## [3D Design](https://github.com/Jkutkut/3D_Design)
 ## [Scratch](https://github.com/Jkutkut/Scratch)
 <!-- ## [Automagic](https://github.com/Jkutkut/Automagic) -->
 ## [Google Sheets](https://github.com/Jkutkut/Google-Sheets)
